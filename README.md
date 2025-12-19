@@ -2,62 +2,70 @@
 
 # Hello There! I'm Vithjeshayan 👋
 
-**Data Scientist | Full Stack Developer | AI Engineer**
+**Data Scientist | Full Stack Developer | Sith Lord**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vithjeshayan-sujanthan)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/svithjeshayan)
 
+<br/>
+
+![Working](https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif)
+
 </div>
 
 ---
 
-## About Me
+## ⚡ Too Long; Didn't Read
 
-BSc (Hons) Data Science graduate with hands-on experience in AI-driven solutions, full-stack development, and data analytics. Currently building enterprise RAG systems and training analytics dashboards at MDTU, Eastern Province.
+I build **enterprise AI systems**, **dashboards**, and **web apps** that actually work. Currently automating everything at **MDTU**.
 
 ```python
-currently_working_on = ["RAG-based AI chatbots", "Training analytics dashboards", "Containerized apps"]
-# execute_order_66(bugs)
+# My daily routine
+while alive:
+    eat()
+    code()
+    debug() # mostly this
+    sleep()
 ```
 
 ---
 
-## Tech Stack
+## 🛠️ The Arsenal
 
-**Languages:** Python • JavaScript • R • SQL  
-**AI/ML:** OpenAI API • LangChain • FAISS • Scikit-learn • XGBoost  
-**Web:** React • Node.js • Express • FastAPI • Streamlit  
-**Data:** Pandas • Plotly • Power BI • Tableau • Snowflake • Spark  
-**DevOps:** Docker • Git • GitHub Actions • CI/CD
-
----
-
-## Featured Projects
-
-| Project                      | Description                                                            | Tech                       |
-| ---------------------------- | ---------------------------------------------------------------------- | -------------------------- |
-| **Enterprise RAG Assistant** | Document Q&A system with 100% accuracy, OCR support, role-based access | Python, OpenAI, FAISS      |
-| **Training Needs Dashboard** | Analytics for 3 districts with correlation heatmaps & keyword analysis | Pandas, Plotly, Docker     |
-| **Money Manager**            | MERN personal finance app with 2FA, PWA, glassmorphism UI              | MongoDB, React, Node.js    |
-| **Currency Forecasting**     | LKR prediction models with >98% R² accuracy                            | Spark, Snowflake, Power BI |
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data_Science-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ---
 
-## GitHub Stats
+## 🚀 Stuff I've Built
+
+- **Enterprise RAG Assistant** 🤖 - _ChatGPT but it knows our secrets._ (100% Accuracy)
+- **Training Needs Dashboard** 📊 - _Visualizing data so managers don't have to read._
+- **Money Manager** 💸 - _Where did my money go? Now I know._ (MERN Stack)
+- **Currency Forecaster** 🔮 - _Predicting the future (ish) with Snowflake & Spark._
+
+---
+
+## 📊 Stats (Validation)
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=svithjeshayan&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=svithjeshayan&theme=github-dark-blue&hide_border=true" height="150"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=svithjeshayan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=svithjeshayan&theme=radical&hide_border=true" height="150"/>
 </div>
 
 ---
 
 <div align="center">
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+### When the code compiles on the first try from Stack Overflow:
 
-_"May the Source be with you."_
+![Success](https://media.giphy.com/media/nXxOjZrbnbRxS/giphy.gif)
+
+_"It's not a bug, it's an undocumented feature."_
 
 </div>
