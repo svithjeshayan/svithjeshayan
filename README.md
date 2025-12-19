@@ -1,71 +1,87 @@
 <div align="center">
 
-# Hello There! I'm Vithjeshayan 👋
+<img src="https://media.giphy.com/media/oDq2jXK4Y6T5k455nF/giphy.gif" width="100%" height="200" style="object-fit: cover;" />
 
-**Data Scientist | Full Stack Developer | Sith Lord**
+# Vithjeshayan Sujanthan
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vithjeshayan-sujanthan)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/svithjeshayan)
+### < `Data Scientist` | `Full Stack Dev` | `Sith Lord` >
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-UGlyZXZlbnQt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vithjeshayan-sujanthan)
+[![GitHub](https://img.shields.io/badge/GITHUB-VGhlIEVtcGlyZQ-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/svithjeshayan)
 
 <br/>
 
-![Working](https://media.giphy.com/media/eEbiAqk9YUT5e/giphy.gif)
+![8bit-vader](https://media.giphy.com/media/13DrdvL8rX8qjK/giphy.gif)
 
 </div>
 
 ---
 
-## ⚡ Too Long; Didn't Read
+## 💾 SYSTEM LOG: BIO_DATA.txt
 
-I build **enterprise AI systems**, **dashboards**, and **web apps** that actually work. Currently automating everything at **MDTU**.
-
-```python
-# My daily routine
-while alive:
-    eat()
-    code()
-    debug() # mostly this
-    sleep()
+```bash
+> INITIALIZING DARK SIDE PROTOCOLS...
+> LOADING PROFILE... [██████████] 100%
+> STATUS: ONLINE
 ```
 
----
+> **Data Scientist** by day, **Imperial Coder** by night. I build enterprise-grade AI systems and full-stack applications with the precision of a Stormtrooper (but with better aim).
 
-## 🛠️ The Arsenal
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data_Science-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+- 👾 **Current Mission:** Building RAG AI Bots @ MDTU
+- 🛰️ **Location:** Sri Lanka (Outer Rim Territories)
+- ⚡ **Superweapon:** Python + Docker + React
 
 ---
 
-## 🚀 Stuff I've Built
-
-- **Enterprise RAG Assistant** 🤖 - _ChatGPT but it knows our secrets._ (100% Accuracy)
-- **Training Needs Dashboard** 📊 - _Visualizing data so managers don't have to read._
-- **Money Manager** 💸 - _Where did my money go? Now I know._ (MERN Stack)
-- **Currency Forecaster** 🔮 - _Predicting the future (ish) with Snowflake & Spark._
-
----
-
-## 📊 Stats (Validation)
+## ⚔️ WEAPONRY (TECH STACK)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=svithjeshayan&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=svithjeshayan&theme=radical&hide_border=true" height="150"/>
+
+|                                                 **CORE**                                                  |                                                **AI / DATA**                                                |                                                **WEB**                                                |                                                **OPS**                                                |
+| :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
+|   ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)   |    ![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white)    |  ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  | ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Data](https://img.shields.io/badge/DATA_SCI-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | ![Node](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white) |     ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)      |
+
 </div>
 
 ---
 
+## 🎮 MISSION COMPLETED (PROJECTS)
+
+### 🔴 [Operation: Enterprise RAG](https://github.com/svithjeshayan)
+
+> _Document Q&A System_
+
+- **Intel:** Python, OpenAI, FAISS
+- **Result:** 100% Accuracy on internal Imperial documents.
+
+### 🟡 [Operation: Training Dashboard](https://github.com/svithjeshayan)
+
+> _Analytics Suite_
+
+- **Intel:** Pandas, Plotly, Docker
+- **Result:** Visualized data for 3 allied sectors.
+
+### 🔵 [Operation: Money Manager](https://github.com/svithjeshayan)
+
+> _Finance Tracker_
+
+- **Intel:** MERN Stack
+- **Result:** Tracking credits with military precision.
+
+---
+
+## 🏆 GALACTIC SCOREBOARD
+
 <div align="center">
 
-### When the code compiles on the first try from Stack Overflow:
+<img src="https://github-readme-stats.vercel.app/api?username=svithjeshayan&show_icons=true&theme=buefy&hide_border=true&bg_color=000000&title_color=FFFF00&text_color=FFFFFF&icon_color=FFFF00" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=svithjeshayan&theme=buefy&hide_border=true&background=000000&stroke=FFFF00&ring=FFFF00&fire=FFFF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFF00&sideLabels=FFFF00&dates=888888" height="150"/>
 
-![Success](https://media.giphy.com/media/nXxOjZrbnbRxS/giphy.gif)
+<br/><br/>
 
-_"It's not a bug, it's an undocumented feature."_
+![Pixel Lightsaber](https://media.giphy.com/media/CvZhu09xHX8O4/giphy.gif)
+
+_"Power! Unlimited Power!"_
 
 </div>
