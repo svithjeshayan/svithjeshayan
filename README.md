@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vithjeshayan 👋
+# Hello There! I'm Vithjeshayan 👋
 
 **Data Scientist | Full Stack Developer | AI Engineer**
 
@@ -17,6 +17,7 @@ BSc (Hons) Data Science graduate with hands-on experience in AI-driven solutions
 
 ```python
 currently_working_on = ["RAG-based AI chatbots", "Training analytics dashboards", "Containerized apps"]
+# execute_order_66(bugs)
 ```
 
 ---
@@ -57,6 +58,6 @@ currently_working_on = ["RAG-based AI chatbots", "Training analytics dashboards"
 
 ![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-_"First, solve the problem. Then, write the code."_ – John Johnson
+_"May the Source be with you."_
 
 </div>
