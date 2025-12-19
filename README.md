@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width="100%" height="200" style="object-fit: cover;" />
+<img src="https://media.giphy.com/media/3oEdvdlJYLQUCtAvLO/giphy.gif" width="100%" height="200" style="object-fit: cover;" />
 
 # Vithjeshayan Sujanthan
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-![8bit-vader](https://media.giphy.com/media/l1KdbHUPe27GQsJH2/giphy.gif)
+![8bit-vader](https://media.giphy.com/media/1VHT1fee6ydSasXVOY/giphy.gif)
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <br/><br/>
 
-![Pixel Lightsaber](https://media.giphy.com/media/3o7qDK5J5Uew3qSf5a/giphy.gif)
+![Pixel Death Star](https://media.giphy.com/media/3o85xKDARMnMuupyHS/giphy.gif)
 
 _"Power! Unlimited Power!"_
 
